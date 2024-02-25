@@ -26,3 +26,5 @@ if ! command -v aws &>/dev/null; then
     sudo apt-get install awscli -y
 fi
     echo "AWS CLI is already installed."
+
+    
